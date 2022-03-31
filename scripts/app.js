@@ -28,8 +28,7 @@ form.addEventListener('submit', (e) => {
             title: "All god",
             text: "Data has been sent",
             icon: "success",
-        })
+        })   
         return;
     }
 })
-
